@@ -2,7 +2,7 @@
 
 # WORA SOUAMY Louis Martin 
 **Ingénieur Logiciel** 
-
+![alt](img/animated-presentation-software-header-wide.gif)
 *[#`lmlouis`](https://github.com/lmlouis)* 
 - 🔭 Actuellement à la recherche de **Stage de Projet de Fin d'Etude (PFE)**
 
@@ -12,7 +12,7 @@
 
 - 📄 Expérience : clickez sur [Curiculum Vitae](https://drive.google.com/file/d/1r2rgmrrW6WCiHNdPLNZJOGrqiUNiRJmb/view?usp=sharing)
 <br>
-![alt](img/animated-presentation-software-header-wide.gif)
+
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmlouis" alt="lmlouis" /></a> </p>
