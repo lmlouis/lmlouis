@@ -28,7 +28,7 @@
 <a href="https://kaggle.com/lmlouis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lmlouis" height="30" width="40" /></a>
 <a href="https://fb.com/fb.lmlouis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.lmlouis" height="30" width="40" /></a>
 <a href="https://www.behance.net/lmlouis2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lmlouis2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@dev.lmlouis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev.lmlouis" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dev.lmlouis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev.lmlouis" height="30" width="40" /></a>
 </p>
 <h3 align="left">Langages et Atéliers Génie Lociel </h3>
 <hr>
