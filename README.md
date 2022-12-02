@@ -15,11 +15,6 @@
 - 📄 Expérience : clickez sur [Curiculum Vitae](https://drive.google.com/file/d/1r2rgmrrW6WCiHNdPLNZJOGrqiUNiRJmb/view?usp=sharing)
 <br>
 
-<hr>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmlouis" alt="lmlouis" /></a> </p>
-
-
 <h3 align="left">Réseaux Sociaux </h3>
 <hr>
 
@@ -44,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lmlouis&show_icons=true&locale=en" alt="lmlouis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmlouis&" alt="lmlouis" /></p>
+
+<hr>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmlouis" alt="lmlouis" /></a> </p>
