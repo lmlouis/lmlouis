@@ -2,8 +2,10 @@
 
 # WORA SOUAMY Louis Martin 
 **Ingénieur Logiciel** 
-![alt](img/animated-presentation-software-header-wide.gif)
 *[#`lmlouis`](https://github.com/lmlouis)* 
+
+![alt](img/animated-presentation-software-header-wide.gif)
+
 - 🔭 Actuellement à la recherche de **Stage de Projet de Fin d'Etude (PFE)**
 
 - 👨‍💻 Mes projets github : clickez sur [Repositories](https://github.com/lmlouis?tab=repositories)
