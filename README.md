@@ -33,9 +33,7 @@
 ### Statistiques 
 ---
 
-
 ![lmlouis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lmlouis&show_icons=true&theme=gruvbox)
 
 ![lmlouis' GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=lmlouis&")
 
-![lmlouis' GitHub trophies](https://github-profile-trophy.vercel.app/?username=lmlouis)
