@@ -11,6 +11,7 @@
 - 👨‍💻 Mes projets github : [Repositories](https://github.com/lmlouis?tab=repositories)
 
 - 📄 [Expérience](https://www.linkedin.com/in/lmlouis/)
+- 👨‍💻 [site web](https://square-zebra-86194.stackbit.app/)
 
   <a href="https://www.youtube.com/@dev.lmlouis" target="_blank"><img title="Abonnez-vous à ma chaine Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:louiswora1@gmail.com"><img title="Contactez-moi sur Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
