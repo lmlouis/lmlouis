@@ -35,7 +35,7 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 
 #
 
-### 🆕 Quoi de neuf sur ma chaine youtube
+### 🆕 Dernières vidéos youtubes
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=5vzs_kls8qg">
