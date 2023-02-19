@@ -9,7 +9,7 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 
 ✌️À bientôt, 😊j'espère!
 #
-### Bon à savoir 
+### 🤓 Bon à savoir 
 
 - 🔭 Actuellement, je suis à la recherche d'un **Emploi**
 
@@ -27,7 +27,7 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 
 ---
 
-<h3 align="left">Langages et Atéliers Génie Lociel </h3>
+<h3 align="left"> ⌨️ Langages et Atéliers Génie Lociel </h3>
 
 
 <p align="left"> 
