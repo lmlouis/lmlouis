@@ -12,6 +12,7 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCzmtR9bnGGui_fhcC98xGxw
+          max_videos: 6
           card_width: 250
           background_color: "#0d1117"
           title_color: "#ffffff"
