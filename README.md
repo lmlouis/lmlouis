@@ -5,9 +5,10 @@
 
 👋Bonjour, bienvenu dans l'univers de *[lmlouis](https://github.com/lmlouis)* . 
 
-Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intelligence artificielle sont mes sujets d'études préférés. C'est pourquoi mon parcours et mes travaux tournes autour des ces trois thématiques. J'espère vous faire passer un agréable moment. N'hésitez pas à me 💬📞contacter si besoins, je suis 👌disponible pour vous dès que ⏳possible.
+Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intelligence artificielle sont mes sujets d'études préférés. C'est pourquoi mon parcours et mes travaux tournent autour des ces trois thématiques. J'espère vous faire passer un agréable moment. N'hésitez pas à me 📞contacter si besoins, je serai 👌disponible pour vous dès que ⏳possible.
 
 ✌️À bientôt, 😊j'espère!
+#
 ### Bon à savoir 
 
 - 🔭 Actuellement, je suis à la recherche d'un **Emploi**
