@@ -1,5 +1,5 @@
 
-<div align="center">
+
 # WORA SOUAMY Louis Martin 
 **`Ingénieur Logiciel`**
 #
@@ -45,7 +45,6 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 
 
 
-![Snake animation](https://github.com/lmlouis/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
 
