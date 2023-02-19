@@ -6,7 +6,7 @@
 *[#lmlouis](https://github.com/lmlouis)* 
 
 
-- 🔭 Actuellement d'un contrat **Developpeur Java**
+- 🔭 Actuellement à recherche d'un **Emploi**
 
 - 👨‍💻 Mes projets github : [Repositories](https://github.com/lmlouis?tab=repositories)
 
