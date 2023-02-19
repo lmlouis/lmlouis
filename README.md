@@ -1,11 +1,11 @@
 
-
+<div align="center">
 # WORA SOUAMY Louis Martin 
 **`Ingénieur Logiciel`**
 #
 
 👋Bonjour, bienvenu dans l'univers de *[lmlouis](https://github.com/lmlouis)* . 
-Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intelligence artificielle sont mes sujets d'études préférés. C'est pourquoi mon parcours et mes travaux tournes autour des ces trois thématiques. J'espère vous faire passer un agréable moment dans mon monde. N'hésitez pas me 💬📞contacter si besoins, je suis 👌disponible le plus vite possible.
+Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intelligence artificielle sont mes sujets d'études préférés. C'est pourquoi mon parcours et mes travaux tournes autour des ces trois thématiques. J'espère vous faire passer un agréable moment. N'hésitez pas à me 💬📞contacter si besoins, je suis 👌disponible pour vous dès que ⏳possible.
 ✌️A toute et 😊bonne visite!
 
 - 🔭 Actuellement à la recherche d'un **Emploi**
@@ -43,7 +43,7 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 [![Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME](https://ytcards.demolab.com/?id=BZYyR-Vqo70&title=Communaut%C3%A92PME+-+PLATEFORMEWEB+POUR+LA+COMMUNAUT%C3%89+DES+PME&lang=en&timestamp=1673459805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME")](https://www.youtube.com/watch?v=BZYyR-Vqo70)
 <!-- END YOUTUBE-CARDS -->
 
-<div align="center">
+
 
 ![Snake animation](https://github.com/lmlouis/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
