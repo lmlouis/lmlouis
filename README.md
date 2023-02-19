@@ -6,7 +6,7 @@
 *[#lmlouis](https://github.com/lmlouis)* 
 
 
-- 🔭 Actuellement à la recherche de **Stage de Projet de Fin d'Etude (PFE)**
+- 🔭 Actuellement d'un contrat **Developpeur Java**
 
 - 👨‍💻 Mes projets github : [Repositories](https://github.com/lmlouis?tab=repositories)
 
