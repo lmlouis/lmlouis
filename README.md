@@ -35,8 +35,8 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 
 #
 
-### 🆕 Nouveautés sur mon youtube[▶️]
-<p align="center">
+### 🆕 Quoi de neuf sur ma chaine youtube
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=5vzs_kls8qg#gh-dark-mode-only)[![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=5vzs_kls8qg#gh-light-mode-only)
 [![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM#gh-dark-mode-only)[![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM#gh-light-mode-only)
