@@ -1,7 +1,7 @@
 
 
-# WORA SOUAMY Louis Martin 
-**`Ingénieur Logiciel`**
+# ![lmlouis](img/lm-mini-logo.png) WORA SOUAMY Louis Martin
+**`Ingénieur Logiciel, #lmlouis`**
 
 👋Bonjour, bienvenu dans l'univers de *[lmlouis](https://github.com/lmlouis)* . 
 
