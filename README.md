@@ -6,7 +6,7 @@
 *[#lmlouis](https://github.com/lmlouis)* 
 
 
-- 🔭 Actuellement à recherche d'un **Emploi**
+- 🔭 Actuellement à la recherche d'un **Emploi**
 
 - 👨‍💻 Mes projets github : [Repositories](https://github.com/lmlouis?tab=repositories)
 
