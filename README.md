@@ -29,6 +29,11 @@
 
 #
 
+### 🆕 Projets Recents sur youtube[▶️]
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 <div align="center">
 
 ![Snake animation](https://github.com/lmlouis/rafaballerini/blob/output/github-contribution-grid-snake.svg)
