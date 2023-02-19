@@ -29,7 +29,7 @@
 
 #
 
-### 🆕 Projets Recents sur youtube[▶️]
+### 🆕 Nouveautés sur mon youtube[▶️]
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM)
