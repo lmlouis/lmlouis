@@ -2,15 +2,17 @@
 
 # WORA SOUAMY Louis Martin 
 **`Ingénieur Logiciel`**
-#
 
 👋Bonjour, bienvenu dans l'univers de *[lmlouis](https://github.com/lmlouis)* . 
+
 Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intelligence artificielle sont mes sujets d'études préférés. C'est pourquoi mon parcours et mes travaux tournes autour des ces trois thématiques. J'espère vous faire passer un agréable moment. N'hésitez pas à me 💬📞contacter si besoins, je suis 👌disponible pour vous dès que ⏳possible.
-✌️A toute et 😊bonne visite!
 
-- 🔭 Actuellement à la recherche d'un **Emploi**
+✌️À bientôt, 😊j'espère!
+### Bon à savoir 
 
-- 👨‍💻 Mes projets github : [Repositories](https://github.com/lmlouis?tab=repositories)
+- 🔭 Actuellement, je suis à la recherche d'un **Emploi**
+
+- 👨‍💻 Mes Travaux github : [Repositories](https://github.com/lmlouis?tab=repositories)
 
 - 📄 [Expérience](https://www.linkedin.com/in/lmlouis/)
 
