@@ -38,12 +38,42 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 ### 🆕 Quoi de neuf sur ma chaine youtube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=5vzs_kls8qg#gh-dark-mode-only)[![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=5vzs_kls8qg#gh-light-mode-only)
-[![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM#gh-dark-mode-only)[![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM#gh-light-mode-only)
-[![👋Bienvenu chez 💻lm](https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "👋Bienvenu chez 💻lm")](https://www.youtube.com/watch?v=6GQuGBjNvOc#gh-dark-mode-only)[![👋Bienvenu chez 💻lm](https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "👋Bienvenu chez 💻lm")](https://www.youtube.com/watch?v=6GQuGBjNvOc#gh-light-mode-only)
-[![mayar app alarm figma prototyp](https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "mayar app alarm figma prototyp")](https://www.youtube.com/watch?v=tCJRfVRnIOM#gh-dark-mode-only)[![mayar app alarm figma prototyp](https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "mayar app alarm figma prototyp")](https://www.youtube.com/watch?v=tCJRfVRnIOM#gh-light-mode-only)
-[![Design Sprint Challenge  - App alarm pour Mayar](https://ytcards.demolab.com/?id=rDhZ1x9Qq6s&title=Design+Sprint+Challenge++-+App+alarm+pour+Mayar&lang=en&timestamp=1673463337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Design Sprint Challenge  - App alarm pour Mayar")](https://www.youtube.com/watch?v=rDhZ1x9Qq6s#gh-dark-mode-only)[![Design Sprint Challenge  - App alarm pour Mayar](https://ytcards.demolab.com/?id=rDhZ1x9Qq6s&title=Design+Sprint+Challenge++-+App+alarm+pour+Mayar&lang=en&timestamp=1673463337&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Design Sprint Challenge  - App alarm pour Mayar")](https://www.youtube.com/watch?v=rDhZ1x9Qq6s#gh-light-mode-only)
-[![Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME](https://ytcards.demolab.com/?id=BZYyR-Vqo70&title=Communaut%C3%A92PME+-+PLATEFORMEWEB+POUR+LA+COMMUNAUT%C3%89+DES+PME&lang=en&timestamp=1673459805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME")](https://www.youtube.com/watch?v=BZYyR-Vqo70#gh-dark-mode-only)[![Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME](https://ytcards.demolab.com/?id=BZYyR-Vqo70&title=Communaut%C3%A92PME+-+PLATEFORMEWEB+POUR+LA+COMMUNAUT%C3%89+DES+PME&lang=en&timestamp=1673459805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME")](https://www.youtube.com/watch?v=BZYyR-Vqo70#gh-light-mode-only)
+<a href="https://www.youtube.com/watch?v=5vzs_kls8qg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
+    <img src="https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Webapp springboot theamlyf qui consome une API REST pour la gestion des employés" title="Webapp springboot theamlyf qui consome une API REST pour la gestion des employés">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=5iE7Hnz4uoM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
+    <img src="https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Projet Fullstack - Gestion de certification (Spring Boot - Angular)" title="Projet Fullstack - Gestion de certification (Spring Boot - Angular)">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=6GQuGBjNvOc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
+    <img src="https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="👋Bienvenu chez 💻lm" title="👋Bienvenu chez 💻lm">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=tCJRfVRnIOM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
+    <img src="https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="mayar app alarm figma prototyp" title="mayar app alarm figma prototyp">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=rDhZ1x9Qq6s">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rDhZ1x9Qq6s&title=Design+Sprint+Challenge++-+App+alarm+pour+Mayar&lang=en&timestamp=1673463337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
+    <img src="https://ytcards.demolab.com/?id=rDhZ1x9Qq6s&title=Design+Sprint+Challenge++-+App+alarm+pour+Mayar&lang=en&timestamp=1673463337&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Design Sprint Challenge  - App alarm pour Mayar" title="Design Sprint Challenge  - App alarm pour Mayar">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=BZYyR-Vqo70">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BZYyR-Vqo70&title=Communaut%C3%A92PME+-+PLATEFORMEWEB+POUR+LA+COMMUNAUT%C3%89+DES+PME&lang=en&timestamp=1673459805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
+    <img src="https://ytcards.demolab.com/?id=BZYyR-Vqo70&title=Communaut%C3%A92PME+-+PLATEFORMEWEB+POUR+LA+COMMUNAUT%C3%89+DES+PME&lang=en&timestamp=1673459805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME" title="Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME">
+  </picture>
+</a>
 <!-- END YOUTUBE-CARDS -->
 <p>
 
