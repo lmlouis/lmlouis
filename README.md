@@ -2,15 +2,18 @@
 
 # WORA SOUAMY Louis Martin 
 **`Ingénieur Logiciel`**
+#
 
-*[#lmlouis](https://github.com/lmlouis)* 
-
+👋Bonjour, bienvenu dans l'univers de *[lmlouis](https://github.com/lmlouis)* . 
+Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intelligence artificielle sont mes sujets d'études préférés. C'est pourquoi mon parcours et mes travaux tournes autour des ces trois thématiques. J'espère vous faire passer un agréable moment dans mon monde. N'hésitez pas me 💬📞contacter si besoins, je suis 👌disponible le plus vite possible.
+✌️A toute et 😊bonne visite!
 
 - 🔭 Actuellement à la recherche d'un **Emploi**
 
 - 👨‍💻 Mes projets github : [Repositories](https://github.com/lmlouis?tab=repositories)
 
 - 📄 [Expérience](https://www.linkedin.com/in/lmlouis/)
+
 - 👨‍💻 [site web](https://square-zebra-86194.stackbit.app/)
 
   <a href="https://www.youtube.com/@dev.lmlouis" target="_blank"><img title="Abonnez-vous à ma chaine Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -44,8 +47,5 @@
 
 ![Snake animation](https://github.com/lmlouis/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-  <a href="https://github.com/lmlouis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmlouis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmlouis&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
