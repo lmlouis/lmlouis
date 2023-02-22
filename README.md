@@ -46,6 +46,12 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 ### 🆕 Dernières vidéos youtubes
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=fEm8hhsems8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fEm8hhsems8&title=Snapface+-+demo+frontend+angular+project&lang=en&timestamp=1677091374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
+    <img src="https://ytcards.demolab.com/?id=fEm8hhsems8&title=Snapface+-+demo+frontend+angular+project&lang=en&timestamp=1677091374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Snapface - demo frontend angular project" title="Snapface - demo frontend angular project">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=5vzs_kls8qg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
@@ -74,12 +80,6 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rDhZ1x9Qq6s&title=Design+Sprint+Challenge++-+App+alarm+pour+Mayar&lang=en&timestamp=1673463337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
     <img src="https://ytcards.demolab.com/?id=rDhZ1x9Qq6s&title=Design+Sprint+Challenge++-+App+alarm+pour+Mayar&lang=en&timestamp=1673463337&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Design Sprint Challenge  - App alarm pour Mayar" title="Design Sprint Challenge  - App alarm pour Mayar">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=BZYyR-Vqo70">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BZYyR-Vqo70&title=Communaut%C3%A92PME+-+PLATEFORMEWEB+POUR+LA+COMMUNAUT%C3%89+DES+PME&lang=en&timestamp=1673459805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
-    <img src="https://ytcards.demolab.com/?id=BZYyR-Vqo70&title=Communaut%C3%A92PME+-+PLATEFORMEWEB+POUR+LA+COMMUNAUT%C3%89+DES+PME&lang=en&timestamp=1673459805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME" title="Communauté2PME - PLATEFORMEWEB POUR LA COMMUNAUTÉ DES PME">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
