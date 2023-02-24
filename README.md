@@ -46,42 +46,12 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 ### 🆕 Dernières vidéos youtubes
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=n3VagdvQPuI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=n3VagdvQPuI&title=Debuter+avec+spring+security+Demo&lang=en&timestamp=1677260747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
-    <img src="https://ytcards.demolab.com/?id=n3VagdvQPuI&title=Debuter+avec+spring+security+Demo&lang=en&timestamp=1677260747&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Debuter avec spring security Demo" title="Debuter avec spring security Demo">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=fEm8hhsems8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fEm8hhsems8&title=Snapface+-+demo+frontend+angular+project&lang=en&timestamp=1677091374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
-    <img src="https://ytcards.demolab.com/?id=fEm8hhsems8&title=Snapface+-+demo+frontend+angular+project&lang=en&timestamp=1677091374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Snapface - demo frontend angular project" title="Snapface - demo frontend angular project">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=5vzs_kls8qg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
-    <img src="https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Webapp springboot theamlyf qui consome une API REST pour la gestion des employés" title="Webapp springboot theamlyf qui consome une API REST pour la gestion des employés">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=5iE7Hnz4uoM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
-    <img src="https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Projet Fullstack - Gestion de certification (Spring Boot - Angular)" title="Projet Fullstack - Gestion de certification (Spring Boot - Angular)">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=6GQuGBjNvOc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
-    <img src="https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="👋Bienvenu chez 💻lm" title="👋Bienvenu chez 💻lm">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=tCJRfVRnIOM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
-    <img src="https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="mayar app alarm figma prototyp" title="mayar app alarm figma prototyp">
-  </picture>
-</a>
+[![Debuter avec spring security Demo](https://ytcards.demolab.com/?id=n3VagdvQPuI&title=Debuter+avec+spring+security+Demo&lang=en&timestamp=1677260747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Debuter avec spring security Demo")](https://www.youtube.com/watch?v=n3VagdvQPuI#gh-dark-mode-only)[![Debuter avec spring security Demo](https://ytcards.demolab.com/?id=n3VagdvQPuI&title=Debuter+avec+spring+security+Demo&lang=en&timestamp=1677260747&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Debuter avec spring security Demo")](https://www.youtube.com/watch?v=n3VagdvQPuI#gh-light-mode-only)
+[![Snapface - demo frontend angular project](https://ytcards.demolab.com/?id=fEm8hhsems8&title=Snapface+-+demo+frontend+angular+project&lang=en&timestamp=1677091374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Snapface - demo frontend angular project")](https://www.youtube.com/watch?v=fEm8hhsems8#gh-dark-mode-only)[![Snapface - demo frontend angular project](https://ytcards.demolab.com/?id=fEm8hhsems8&title=Snapface+-+demo+frontend+angular+project&lang=en&timestamp=1677091374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Snapface - demo frontend angular project")](https://www.youtube.com/watch?v=fEm8hhsems8#gh-light-mode-only)
+[![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=5vzs_kls8qg#gh-dark-mode-only)[![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=5vzs_kls8qg#gh-light-mode-only)
+[![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM#gh-dark-mode-only)[![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM#gh-light-mode-only)
+[![👋Bienvenu chez 💻lm](https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "👋Bienvenu chez 💻lm")](https://www.youtube.com/watch?v=6GQuGBjNvOc#gh-dark-mode-only)[![👋Bienvenu chez 💻lm](https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "👋Bienvenu chez 💻lm")](https://www.youtube.com/watch?v=6GQuGBjNvOc#gh-light-mode-only)
+[![mayar app alarm figma prototyp](https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "mayar app alarm figma prototyp")](https://www.youtube.com/watch?v=tCJRfVRnIOM#gh-dark-mode-only)[![mayar app alarm figma prototyp](https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250 "mayar app alarm figma prototyp")](https://www.youtube.com/watch?v=tCJRfVRnIOM#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
 <p>
 
