@@ -24,4 +24,4 @@ jobs:
           commit_message: "docs(readme): Update YouTube cards"
           readme_path: README.md
           output_only: false
-          output_type: html
+          output_type: markdown
