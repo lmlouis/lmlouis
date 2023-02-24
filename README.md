@@ -46,6 +46,12 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 ### 🆕 Dernières vidéos youtubes
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=n3VagdvQPuI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=n3VagdvQPuI&title=Debuter+avec+spring+security+Demo&lang=en&timestamp=1677260747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
+    <img src="https://ytcards.demolab.com/?id=n3VagdvQPuI&title=Debuter+avec+spring+security+Demo&lang=en&timestamp=1677260747&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Debuter avec spring security Demo" title="Debuter avec spring security Demo">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=fEm8hhsems8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fEm8hhsems8&title=Snapface+-+demo+frontend+angular+project&lang=en&timestamp=1677091374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
@@ -74,12 +80,6 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
     <img src="https://ytcards.demolab.com/?id=tCJRfVRnIOM&title=mayar+app+alarm+figma+prototyp&lang=en&timestamp=1673465068&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="mayar app alarm figma prototyp" title="mayar app alarm figma prototyp">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=rDhZ1x9Qq6s">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rDhZ1x9Qq6s&title=Design+Sprint+Challenge++-+App+alarm+pour+Mayar&lang=en&timestamp=1673463337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250">
-    <img src="https://ytcards.demolab.com/?id=rDhZ1x9Qq6s&title=Design+Sprint+Challenge++-+App+alarm+pour+Mayar&lang=en&timestamp=1673463337&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250" alt="Design Sprint Challenge  - App alarm pour Mayar" title="Design Sprint Challenge  - App alarm pour Mayar">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
