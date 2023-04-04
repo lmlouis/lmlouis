@@ -44,12 +44,7 @@ Je suis 🔥passioné 💻d'informatique le 🌐web, la 📈data et 🦾l'intell
 ### 🆕 Dernières vidéos youtubes
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![lm louis - Jésus viens prendre le contrôle](https://ytcards.demolab.com/?id=SZZeCwsAJc0&title=lm+louis+-+J%C3%A9sus+viens+prendre+le+contr%C3%B4le&lang=en&timestamp=1680305956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "lm louis - Jésus viens prendre le contrôle")](https://www.youtube.com/watch?v=SZZeCwsAJc0)
-[![Debuter avec spring security Demo](https://ytcards.demolab.com/?id=n3VagdvQPuI&title=Debuter+avec+spring+security+Demo&lang=en&timestamp=1677260747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Debuter avec spring security Demo")](https://www.youtube.com/watch?v=n3VagdvQPuI)
-[![Snapface - demo frontend angular project](https://ytcards.demolab.com/?id=fEm8hhsems8&title=Snapface+-+demo+frontend+angular+project&lang=en&timestamp=1677091374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Snapface - demo frontend angular project")](https://www.youtube.com/watch?v=fEm8hhsems8)
-[![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=5vzs_kls8qg&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1676775234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=5vzs_kls8qg)
-[![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM)
-[![👋Bienvenu chez 💻lm](https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "👋Bienvenu chez 💻lm")](https://www.youtube.com/watch?v=6GQuGBjNvOc)
+
 <!-- END YOUTUBE-CARDS -->
 <p>
 
