@@ -1,7 +1,7 @@
 
 
 # ![lmlouis](img/lm-mini-logo.png) 
-<h1 align="center" style="color:#36BCF7FF">
+<h1 align="center">
   WORA SOUAMY Louis Martin
 </h1>
 <p align="center">
@@ -103,15 +103,5 @@ Je suis un ingénieur polyvalent avec des compétences solides en ingénierie lo
 - **Adresse**: Monastir, Tunisie
 - **Nationalité**: Gabonais
 - **Date de naissance**: 27/05/1999
-
-
-        <a href="https://github.com/lmlouis">
-            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/lmlouis?style=for-the-badge&labelColor=7E3ACE&color=181717">
-        </a>
-        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/lmlouis?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/lmlouis?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/lmlouis?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/lmlouis?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/lmlouis?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
 
 
