@@ -12,10 +12,26 @@ Je suis un ingénieur polyvalent avec des compétences solides en ingénierie lo
 - 📄 [Expérience](https://www.linkedin.com/in/lmlouis/)
 
   <a href="https://www.youtube.com/@dev.lmlouis" target="_blank"><img title="Abonnez-vous à ma chaine Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:louiswora1@gmail.com"><img title="Contactez-moi sur Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:worasouamy@gmail.com"><img title="Contactez-moi sur Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lmlouis" target="_blank"><img title="Suivez-moi sur Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://github.com/lmlouis?tab=followers">
          <img alt="Suivez-moi" title="Suivez-moi sur Github" src="https://custom-icon-badges.demolab.com/github/followers/lmlouis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+#
+
+### 🆕 Dernières vidéos youtubes
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![snapface demo frontend angular project](https://ytcards.demolab.com/?id=a9tTip49vn8&title=snapface+demo+frontend+angular+project&lang=en&timestamp=1681068501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "snapface demo frontend angular project")](https://www.youtube.com/watch?v=a9tTip49vn8)
+[![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=_VR5m3OO-7Q&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1681067218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=_VR5m3OO-7Q)
+[![lm louis - Jésus viens prendre le contrôle](https://ytcards.demolab.com/?id=SZZeCwsAJc0&title=lm+louis+-+J%C3%A9sus+viens+prendre+le+contr%C3%B4le&lang=en&timestamp=1680305956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "lm louis - Jésus viens prendre le contrôle")](https://www.youtube.com/watch?v=SZZeCwsAJc0)
+[![Debuter avec spring security Demo](https://ytcards.demolab.com/?id=n3VagdvQPuI&title=Debuter+avec+spring+security+Demo&lang=en&timestamp=1677260747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Debuter avec spring security Demo")](https://www.youtube.com/watch?v=n3VagdvQPuI)
+[![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM)
+[![👋Bienvenu chez 💻lm](https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "👋Bienvenu chez 💻lm")](https://www.youtube.com/watch?v=6GQuGBjNvOc)
+<!-- END YOUTUBE-CARDS -->
+<p>
 
 ---
 
@@ -84,18 +100,4 @@ Je suis un ingénieur polyvalent avec des compétences solides en ingénierie lo
 
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-#
-
-### 🆕 Dernières vidéos youtubes
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![snapface demo frontend angular project](https://ytcards.demolab.com/?id=a9tTip49vn8&title=snapface+demo+frontend+angular+project&lang=en&timestamp=1681068501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "snapface demo frontend angular project")](https://www.youtube.com/watch?v=a9tTip49vn8)
-[![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=_VR5m3OO-7Q&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1681067218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=_VR5m3OO-7Q)
-[![lm louis - Jésus viens prendre le contrôle](https://ytcards.demolab.com/?id=SZZeCwsAJc0&title=lm+louis+-+J%C3%A9sus+viens+prendre+le+contr%C3%B4le&lang=en&timestamp=1680305956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "lm louis - Jésus viens prendre le contrôle")](https://www.youtube.com/watch?v=SZZeCwsAJc0)
-[![Debuter avec spring security Demo](https://ytcards.demolab.com/?id=n3VagdvQPuI&title=Debuter+avec+spring+security+Demo&lang=en&timestamp=1677260747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Debuter avec spring security Demo")](https://www.youtube.com/watch?v=n3VagdvQPuI)
-[![Projet Fullstack - Gestion de certification (Spring Boot - Angular)](https://ytcards.demolab.com/?id=5iE7Hnz4uoM&title=Projet+Fullstack+-+Gestion+de+certification+%28Spring+Boot+-+Angular%29&lang=en&timestamp=1674585426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Projet Fullstack - Gestion de certification (Spring Boot - Angular)")](https://www.youtube.com/watch?v=5iE7Hnz4uoM)
-[![👋Bienvenu chez 💻lm](https://ytcards.demolab.com/?id=6GQuGBjNvOc&title=%F0%9F%91%8BBienvenu+chez+%F0%9F%92%BBlm&lang=en&timestamp=1673476464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "👋Bienvenu chez 💻lm")](https://www.youtube.com/watch?v=6GQuGBjNvOc)
-<!-- END YOUTUBE-CARDS -->
-<p>
 
