@@ -28,9 +28,6 @@ Je suis un ingénieur polyvalent avec des compétences solides en ingénierie lo
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-
-
-    <div>
         <a href="https://github.com/lmlouis">
             <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/lmlouis?style=for-the-badge&labelColor=7E3ACE&color=181717">
         </a>
@@ -39,7 +36,7 @@ Je suis un ingénieur polyvalent avec des compétences solides en ingénierie lo
         <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/lmlouis?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
         <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/lmlouis?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/lmlouis?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-    </div>
+
 
     
 ### 🆕 Dernières vidéos youtubes
