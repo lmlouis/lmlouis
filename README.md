@@ -27,7 +27,7 @@ Je suis un ingénieur polyvalent avec des compétences solides en ingénierie lo
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-#
+
 
 
     <div>
