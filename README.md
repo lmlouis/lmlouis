@@ -44,6 +44,8 @@ Je suis un ingénieur polyvalent avec des compétences solides en ingénierie lo
 
 <h3 align="left"> ⌨️ Technologie </h3>
 
+---
+
 ![LinkedIn](https://img.icons8.com/material-rounded/24/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/worasouamy/)
 ![GitHub](https://img.icons8.com/material-rounded/24/000000/github.png) [GitHub](https://github.com/lmlouis/)
 
