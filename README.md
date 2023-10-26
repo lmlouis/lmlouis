@@ -42,11 +42,9 @@ Je suis un ingénieur polyvalent avec des compétences solides en ingénierie lo
 
 ---
 
-<h3 align="left"> ⌨️ Mon CV </h3>
+<h3 align="left"> ⌨️ Technologie </h3>
 
-
-# Curriculum Vitae - WORA SOUAMY Louis Martin
-![LinkedIn](https://img.icons8.com/material-rounded/24/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/lmlouis/)
+![LinkedIn](https://img.icons8.com/material-rounded/24/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/worasouamy/)
 ![GitHub](https://img.icons8.com/material-rounded/24/000000/github.png) [GitHub](https://github.com/lmlouis/)
 
 - **Langages de Programmation**: Java, Python, TypeScript, JavaScript, Node.js, Apex.
