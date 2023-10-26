@@ -9,7 +9,7 @@
 </p>
 
 
-**`Ingénieur Logiciel, #lmlouis`**
+**`#lmlouis`**
 
 👋Bonjour,
 Je suis un ingénieur polyvalent avec des compétences solides en ingénierie logicielle, en intelligence artificielle et en expérience client. Mon profil comprend les éléments suivants : Mon profil met en avant des compétences en développement logiciel, en développement web, en bases de données, en intelligence artificielle, en UX design, et en utilisation d'outils de développement. J’ai également acquis des compétences en gestion de projet agile et en DevOps.
