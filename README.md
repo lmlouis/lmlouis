@@ -40,18 +40,3 @@ Je suis un ingénieur polyvalent avec des compétences solides en ingénierie lo
 <!-- END YOUTUBE-CARDS -->
 <p>
 
----
-
-<h3 align="left"> ⌨️ Technologie </h3>
-
----
-
-![LinkedIn](https://img.icons8.com/material-rounded/24/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/worasouamy/)
-![GitHub](https://img.icons8.com/material-rounded/24/000000/github.png) [GitHub](https://github.com/lmlouis/)
-
-- **Langages de Programmation**: Java, Python, TypeScript, JavaScript, Node.js, Apex.
-- **Frameworks**: Springboot, Angular, Express.js, Salesforce.
-- **Bases de données**: Oracle, PostgreSQL, MySQL, Firebase.
-- **Atelier Logiciel**: Figma, Miro, Postman, Github, Bitbucket, Microsoft Teams, Google Colab.
-- **Devops**: Docker, Git, Virtualisation Hyper-V, OS Linux.
-- **Test Logiciel**: Junit, CI / CD.
