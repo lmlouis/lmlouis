@@ -1,9 +1,8 @@
-# 💫 About **`lmlouis`** : 
 <h1 align="center">
   WORA SOUAMY Louis Martin
 </h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ing%C3%A9nieur+Logiciels" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+" alt="Typing SVG" /></a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
@@ -39,7 +38,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px"/>
 
 
-### 🆕 Lasted Videos On Youtube
+### 🆕 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![snapface demo frontend angular project](https://ytcards.demolab.com/?id=a9tTip49vn8&title=snapface+demo+frontend+angular+project&lang=en&timestamp=1681068501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "snapface demo frontend angular project")](https://www.youtube.com/watch?v=a9tTip49vn8)
 [![Webapp springboot theamlyf qui consome une API REST pour la gestion des employés](https://ytcards.demolab.com/?id=_VR5m3OO-7Q&title=Webapp+springboot+theamlyf+qui+consome+une+API+REST+pour+la+gestion+des+employ%C3%A9s&lang=en&timestamp=1681067218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Webapp springboot theamlyf qui consome une API REST pour la gestion des employés")](https://www.youtube.com/watch?v=_VR5m3OO-7Q)
