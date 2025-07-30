@@ -19,6 +19,3 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 [![](https://visitcount.itsvg.in/api?id=lmlouis&icon=3&color=0)](https://visitcount.itsvg.in)
 ![](./profile-3d-contrib/profile-night-view.svg)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lmlouis&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
